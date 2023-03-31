@@ -17,6 +17,7 @@ I have chosen Data Augmentation because produces various images from existing im
 - Height shift 
 - Zoom 
 - Horizontal flip
+
 Data Augmentation also increases the size of dataset which helps in training the Neural Network better
 and avoids overfitting.
 
